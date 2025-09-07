@@ -1,0 +1,7 @@
+- move to c, and rename folder to office. inside it there is setup.exe and Configuration.xml file
+- run cmd as admin, execute "setup.exe /configure configuration.xml"
+- make sure computer is online and wait until installation is done
+
+NOTE:
+https://www.microsoft.com/en-us/download/details.aspx?id=49117 for download ODT
+https://config.office.com/deploymentsettings for create custom Configuration.xml file
